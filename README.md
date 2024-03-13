@@ -13,3 +13,7 @@ Cybersecurity Quickstarts
 - [ ] Block ports that are not used
 - [ ] Block ports from the outside for daemons 😈 and applications (e.g.: MySQL port 3306, PostgreSQL port 5432, ElasticSearch ports 9200 & 9300, etc)
 - [ ] Removed any access to the network for applications or daemons 😈 that don't need it
+
+## Related Quickstarts
+- https://github.com/jnbdz/cryptography-quickstarts
+- https://github.com/jnbdz/vault-quickstarts
